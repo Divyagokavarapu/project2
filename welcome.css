@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+video{
+    width: 100%;
+}
+.navbar-nav .nav-link {
+    padding-right: 0;
+    padding-left: 0;
+    COLOR: rgb(255, 255, 255);
+    font-size: 1.2rem;
+}
+.container1{
+    background-color:mistyrose;
+    display: flex;
+}
+.container1 img{
+    width: 300px;
+    height: 300px;
+    margin: 5% 6%;
+}
+.container1 .title{
+    padding: 5% 10%;
+}
+.container2{
+    background-color:bisque;
+    display: flex;
+}
+.container2 img{
+    width: 300px;
+    height: 300px;
+    margin: 3% 5%;
+}
+.container2 .title{
+    padding: 5% 10%;
+}
+.container3{
+    background-color: pink;
+    display: flex;
+}
+.container3 img{
+    width: 300px;
+    height: 300px;
+    margin: 3% 5%;
+}
+.container3 .title{
+    padding: 5% 10%;
+}
